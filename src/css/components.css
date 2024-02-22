@@ -8,10 +8,7 @@ body{
     /* transition: 0.4s; */
 }
 
-.dark-mode-body{
-    color:#fff;
-    background-color: #202024;
-}
+
 
  .container {
     max-width: 375px;

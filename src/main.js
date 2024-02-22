@@ -1,1 +1,1 @@
-import './js/theme';
+import './js/dark-theme';
